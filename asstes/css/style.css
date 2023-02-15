@@ -1,0 +1,35 @@
+/* .test{
+    color: red;
+} */
+
+
+/* body {
+    background-color: black;
+}
+
+#products .icon i {
+    color: gray;
+    font-size: 70px;
+    cursor: pointer;
+
+}
+
+
+.active-icon{
+
+    color: yellow !important;
+}
+
+.active-body {
+    background-color: white !important;
+} */
+
+
+body{
+    background-color: gray;
+}
+
+button{
+    display: block !important;
+    margin: 0 auto !important; 
+}
